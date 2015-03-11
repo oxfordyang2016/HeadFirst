@@ -1,0 +1,11 @@
+If you are accustomed to planning large-scale test efforts in advance, it may be
+tempting to plan out all your charters before you begin executing against them.
+The problem is that you cannot know until you start exploring what kind of
+information you will find. If you plan all your charters in advance, you will be
+less able to adjust your exploration to take that new information into account.
+You might identify some of the most important charters in advance. However,
+chartering is not the same as traditional test planning. It is a much more fluid
+process. You are constantly revisiting your charters throughout the entire
+development life cycle to make sure you're always focused on discovering the
+information your stakeholders care most about. To put it another way, take your
+exploration one mission at a time.
